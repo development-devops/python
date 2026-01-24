@@ -35,4 +35,4 @@ fruiteList=("apple","Mango","banana");
 
 for index in range(len(fruiteList)):
 
-    print("index of :" ,fruiteList[index] ,"is" ,index )
+    print("index of :" ,fruiteList[index] ,"is" ,index ) 
